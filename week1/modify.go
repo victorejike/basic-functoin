@@ -7,5 +7,6 @@ func main() {
 	price := []int{10, 20, 30, 40}
 
 	fmt.Println(price[0])
+	//to print out the second slice
 	fmt.Println(price[2])
 }
